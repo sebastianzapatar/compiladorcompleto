@@ -2,7 +2,7 @@ from lpp.repl import start_repl
 
 
 def main() -> None:
-    print('Bienvenido al Lenguaje de Programación Platzi.')
+    print('Compilador.')
     print('Escribe un oración para comenzar.')
 
     start_repl()
